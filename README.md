@@ -11,3 +11,5 @@ Yes, I understand that the artistic liberties taken make it easier
 for a web crawler to defeat. It's the *concept* that interested me.
 Anyone who really wanted to use it would need to make modifications
 anyways.
+
+[Click here for the live demo](http://thatwhichcannotbecrawled.krashdev.com/)
